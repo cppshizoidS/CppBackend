@@ -1,0 +1,8 @@
+[requires]
+fmt/9.1.0
+doxygen/1.9.4
+gtest/1.12.1
+drogon/1.8.0
+
+[generators]
+cmake
